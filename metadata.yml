@@ -1,0 +1,12 @@
+---
+:id: 18883296
+:submitters:
+- :name: Mikael Subianto
+  :email: mikael_harseno@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-06-29 03:53:24.904922000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-06-28 20:53:24.904922000 Z
+:status: processed
+:score: 97.3529
